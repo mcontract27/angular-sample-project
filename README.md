@@ -26,9 +26,9 @@ yarn global add typescript
 yarn global add @angular/cli
 ```
 
-Clone the repository (from command-line):
+Fork this repository to your user on Github then clone the repository (from command-line):
 
-`git clone git@github.com:kibbled/angular-sample-project.git`
+`git clone git@github.com:[YOUR_USER_NAME]/angular-sample-project.git`
 
 Change directories to this new project:
 `cd angular-sample-project`
